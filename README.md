@@ -1,1 +1,1 @@
-# hand-gesture-
+# hand gesture prediction 
